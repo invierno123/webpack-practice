@@ -7,4 +7,4 @@ rm -rf dist;
 git add . &&
 git commit -m "updated1" &&
 git push &&
-git checkout -
+git checkout main
